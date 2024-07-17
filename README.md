@@ -4,13 +4,7 @@ The sales dashboard is designed to address critical issues faced by a retail bus
 
 ## Objectives:
 
-**Analyze Product Performance**: Identify the highest and lowest performing product categories based on the total quantity sold, helping to understand which products are driving the most sales and which need more attention or promotional efforts.
-
-**Regional Sales Analysis**: Determine the distribution of sales across different states to identify key markets and potential areas for expansion or improvement, guiding regional marketing and sales strategies.
-
-**Brand Performance Evaluation**: Assess the performance of various brands by analyzing the sum of total sales attributed to each brand, providing insights into brand popularity and customer preferences, and aiding in inventory and relationship management with suppliers.
-
-**Overall Sales Metrics**: Track and visualize key sales metrics such as total sales, total cost, total quantity sold, sum of order values, and total profit, crucial for understanding the overall business health and for strategic decision-making.
+The primary objective of this sales dashboard is to provide a comprehensive analysis of the sales performance across various product categories, geographical regions, and brands. By visualizing key metrics such as total quantity sold by category, sum of sales by state, and total sales by brand, the dashboard aims to identify top-performing products, understand regional sales distribution, and evaluate brand performance. Additionally, it tracks overall sales metrics including total sales, total cost, total quantity sold, sum of order values, and total profit, providing a clear snapshot of the business's financial health. This data-driven approach helps stakeholders make informed strategic decisions, optimize inventory management, and enhance marketing and sales efforts, ultimately driving improved business performance.
 
 ## Detailed Analysis : 
 
